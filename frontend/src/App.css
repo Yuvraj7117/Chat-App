@@ -1,0 +1,18 @@
+#root {
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input{
+  outline:none;
+  padding-left:10px;
+  border:none
+}
+
+button:hover{
+ size:20px; 
+}
+
+

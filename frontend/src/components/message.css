@@ -1,0 +1,39 @@
+#me{
+	
+	margin:0px 20px;
+    display: flex;
+	justify-content: end;
+	align-items: end;
+}
+
+#you {
+	width: fit-content; 
+	margin:0px  20px;
+	display: flex;
+	justify-content: start; 
+	align-items: start;
+
+}
+
+.message-container{
+	height: 50vh;
+	
+}
+.message-content{
+	background-color: rgb(228, 182, 182);
+	border-radius: 5px;
+	padding: 10px 20px 0px  20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.message-info{
+	display: flex;
+	justify-content: space-between;
+	font-size: smaller;
+	width:7vw;
+	float:right;
+} 
+
+
